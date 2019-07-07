@@ -12,5 +12,5 @@ This tutorial offers instruction on creating an ultrasonic proximity alert that 
 - Open the **Ultrasonic_Actuator_bb.pdf** file above and follow the visual pinout instructions to set up your circuit
 
 ## IDE Code
-- Open the Arduino IDE, and we'll walk you through writing your first Arduino code!
+- Open the Arduino IDE, and we'll walk you through modifying your original code for the basic ultrasonic sensor setup!
 >(Note, the .ino file is included above)
